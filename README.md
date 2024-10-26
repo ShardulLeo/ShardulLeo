@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm looking for Full-Time job in the field of Data Science<br>I have experience in machine learning, data visualization, and cloud technologies. Skilled in <br>Python, SQL, Power BI, and Tableau to analyze large datasets, streamline processes, and support data-driven <br>decisions. Expertise in ETL automation, dashboard design, and ensuring data quality on platforms like AWS, <br>DataBricks, and Snowflake. <br>Master of Science in Data Science from the New York Institute of Technology
+I have experience in machine learning, data visualization, and cloud technologies. Skilled in <br>Python, SQL, Power BI, and Tableau to analyze large datasets, streamline processes, and support data-driven <br>decisions. Expertise in ETL automation, dashboard design, and ensuring data quality on platforms like AWS, <br>DataBricks, and Snowflake. <br>Master of Science in Data Science from the New York Institute of Technology
 
 
 ## 🌐 Socials:
